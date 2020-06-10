@@ -1,0 +1,5 @@
+   background("green");
+   //textAlign(CENTER);
+   
+rp1 = createP([r1]);
+rp1.position(100,200)
